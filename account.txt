@@ -1,0 +1,13 @@
+ftP:  rebaudo.es
+account1:
+tuannm
+Tuandev@123
+
+account2:
+rebaudo28168
+Rebaudo28168@
+
+mysql:
+rebaudo28168.domaincommysql.com
+rebaudo
+Blog.es123
