@@ -11,3 +11,12 @@ mysql:
 rebaudo28168.domaincommysql.com
 rebaudo
 Blog.es123
+
+Hosting:
+domain.com
+rebaudo28168
+Web:Domain22
+
+Admin:
+Rebaudo
+rebaudo_pass
